@@ -1,4 +1,4 @@
-public class binary {
+public class App {
     public static void main(String[] args) {
         int[] arr = {24,54,87,56,84,98,67,75,43,49,64,67,93,43}; 
         bubbleSort(arr);
